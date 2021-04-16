@@ -1,0 +1,32 @@
+.login-title{
+    color:#ff7f00;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+body{
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(221,221,221,1) 0%, rgba(255,255,255,1) 50%, rgba(221,221,221,1) 100%);
+}
+
+.login-logo{
+    width: 10%;
+    min-width: 100px;
+}
+
+.btn{
+    background-color: #ff7f00;
+    border:none;
+}
+
+.btn:hover{
+    background-color: #dd5d00;
+}
+
+.panel-logo{
+    width: 60px;
+}
+
+.panel-logo-text{
+    color:#ff7f00;
+}
